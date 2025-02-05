@@ -1,4 +1,4 @@
-# Heath Research From Home Hackathon 2024
+# Heath Research From Home Hackathon 2025
 
 This hackathon is being held by Health Research From Home Partnership led by the University of Manchester
 ## Contents
@@ -11,10 +11,15 @@ This hackathon is being held by Health Research From Home Partnership led by the
 
   - [Problem Description](files/problem.md)
   - [Skills You Will Need](files/skills.md)
-  - Do we need cloud server or using UoM server: <span style="color:red">TODO: Need to update</span>
-    - [Saturn Cloud Terms of Use](files/terms.md)
-    - [Setting up your Saturn Cloud account](files/setup.md)
-    - [Different ways of using Saturn Cloud](files/waysofworking.md)
+  - Who should apply:
+    - We aim to recruit 20 participants for an in-person session. The participants will include: Early career researchers (e.g., PhD students, postdoctoral researchers) from academic or industrial background specializing in health data research.
+  - How to Get Involved:
+    - Stay Updated: Sign up for our newsletter to receive event updates and registration details: [Subscribe Here](https://emarketing.manchester.ac.uk/l/166/hrfhsubscribe)
+    - Questions or Sign-Up Assistance: Reach out to our team at: [hrfh@manchester.ac.uk](hrfh@manchester.ac.uk)
+  - What to Expect:
+    - Networking opportunities with experts in ePGHD and related fields. 
+    - Access to curated datasets and resources for hands-on experimentation. 
+    - Team-based challenges with prizes for the best solutions.
 
 ## Contact
 

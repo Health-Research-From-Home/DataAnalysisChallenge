@@ -4,13 +4,10 @@ The following is event information for registered participants.
 
 ## Dates
 
-The hackathon will take place between 17-19 April 2024. 
-
-<span style="color:red">TODO: need to update!</span>
+The hackathon will take place at Pankurst Building, University of Manchester between 7-9 May 2025.
 
 
 ## Timetable
-<span style="color:red">TODO: need to update!</span>
 
 *Exact timings to be confirmed*
 
@@ -22,41 +19,29 @@ The hackathon will take place between 17-19 April 2024.
 |      | 11:00      | 12:00    | Team Formation             |
 |      | 12:00      | 13:00    | Lunch                      |
 |      | 13:00      | 16:30    | Group Work                 |
-|      | 18:00      | 20:00    | Dinner at Mestizo          |
-|Thu| 09:15      | 09:45    | Morning Huddle             |
-|| 09:45      | 12:00    | Group Work                 |
+|Thu| 09:45      | 12:00    | Group Work                 |
 |      | 12:00      | 13:00    | Lunch                      |
-|      | 13:00      | 15:30    | Group Work                 |
-|      | 15:30      | 16:30    | Seminar: Joshua Payne      |
-|Fri| 09:15      | 09:45    | Morning Huddle             |
-|| 09:45      | 12:30    | Group Work + Submission    |
+|      | 13:00      | 16:30    | Group Work                 |
+|Fri| 09:45      | 12:30    | Group Work + Submission    |
 |      | 12:30      | 13:30    | Lunch                      |
-|      | 13:30      | 14:00    | Photos                     |
-|      | 14:00      | 15:00    | Roche Project Presentations |
-|      | 15:00      | 16:00    | Results and Group Feedback |
+|      | 13:30      | 16:30    | Results and Group Feedback    |
 
 ## Venue
-<span style="color:red">TODO: need to update!</span>
 
-The hackathon will take place in the Burroughs Room at the [Wellcome Collection](https://wellcomecollection.org/) which located near Euston Station in Central London.
+The hackathon will be held in the Christabel Pankhurst Building at the University of Manchester, located on Dover Street in Manchester (M13 9PS).
 
 ## Accommodation
-<span style="color:red">TODO: need to update!</span>
 
-Participants will be expected to arrange their own accommodation during the hackathon unless otherwise arranged with HDRUK.
+Participants will be expected to pay for and arrange their own accommodation during the hackathon. A limited number of bursaries maybe available.
 
 ## Meals
-<span style="color:red">TODO: need to update!</span>
+We will provide refreshments and lunch for all attendees each day of the hackathon. If you have any specific dietary requirements or allergies, please let us know in advance so we can make the necessary arrangements.
 
-Roche have arranged dinner at the Mestizo restaurant in Euston on Wednesday evening.  Light refreshments and lunch will be available during the hackathon activities. Participants are responsible for their own meal arrangements at all other times.
 
 ## What will I need to bring or arrange in advance?
-<span style="color:red">TODO: need to update!</span>
-
 For this hackathon, you will need:
 
 1. A personal laptop,
-2. Some basic stationery,
-3. Signed the HDRUK Participation Agreement,
-4. (Optional) Access to your own university high-performance computing facilities.
+2. Signed the HRfH Participation Agreement,
+3. (Optional) Access to your own organization's high-performance computing facilities.
 

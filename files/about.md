@@ -6,39 +6,34 @@
 - Introduce this community to wider HRfH stakeholders – patients, clinicians, other HRfH researchers
 - Tackle difficult and important challenges in HRfH time series data
 - Generate reusable code
-
-- <span style="color:red">TODO: Full description</span>
+- During the three days, you will work in small groups to address two challenges in the area of tracked daily symptoms for people living with long-term conditions.
 
 ## Instructors
 
-<span style="color:red">TODO: Name list?</span>
-
 The hackathon will be led by experienced instructors from HRfH:
 
-| Instructor                                                      | Affiliation |
-|-----------------------------------------------------------------|-------------|
-| [Will Dixon](https://www.linkedin.com/in/will-dixon-8686094a/)  | HRfH / UoM  |
-| [Shuai Shao](https://www.linkedin.com/in/shuai-shao-b632b3b6/)  | HRfH / UoM |
+| Instructor                                                      | Affiliation   |
+|-----------------------------------------------------------------|---------------|
+| [Will Dixon](https://www.linkedin.com/in/will-dixon-8686094a/)  | HRfH / UoM    |
+| [Christopher Yau](https://www.bdi.ox.ac.uk/Team/christopher-yau)  | HRfH / Oxford |
+| [Glen Martin]()  | HRfH / UoM    |
+| [Matthew Sperrin]()  | HRfH / UoM    |
+| [David Antony Selby]()  | HRfH / DFKI    |
+| [Shuai Shao](https://www.linkedin.com/in/shuai-shao-b632b3b6/)  | HRfH / UoM    |
 
 
 ## Who should apply?
 
-The participants are expected to:
+We aim to recruit 20 participants for an in-person session. The participants will include:
 
-1. Early career researchers (PhD/ PDRAs) in heath data research,
-2. Possess mature and competent scientific programming abilities in Python or R.
+Early career researchers (e.g., PhD students, postdoctoral researchers) from academic or industrial background specializing in health data research.
 
 
-<span style="color:red">TODO: Need to update the participants requirements</span>
 
 ## How much will it cost me to attend?
 
-Participants will be required to arrange their own transport and accommodation. A limited number of bursaries maybe available (Five £600 travel and accommodation bursaries).
-
-<span style="color:red">TODO: Need to update the details about how to attend online or offline?</span>
+There is no cost to participate, however, the participants will be required to pay for and arrange their own transport and accommodation. A limited number of bursaries maybe available.
 
 ## Cancellations
 
-*If circumstances beyond our control lead to an event cancellation for any reason, any registration fees will be refunded. However, participants should ensure they take out adequate personal insurance for any pre-booked travel as it is not possible for HDRUK to refund any incurred costs if a cancellation occurs.*
-
-<span style="color:red">TODO: Need to update the details about how to attend online or offline?</span>
+The participants should ensure they take out adequate personal insurance for any pre-booked travel as it is not possible for HRfH to refund any incurred costs if an unavoidable cancellation occurs.
