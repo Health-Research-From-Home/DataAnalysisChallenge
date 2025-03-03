@@ -1,4 +1,4 @@
-# Heath Research From Home Hackathon 2025
+# Health Research From Home Hackathon 2025
 
 This hackathon is being held by Health Research From Home Partnership led by the University of Manchester
 ## Contents
