@@ -1,17 +1,18 @@
-# Problem Background
+# Background
 
-## Problem Background
-Chronic pain management is a critical area of healthcare, where understanding the dynamics of patient-reported outcomes can significantly improve treatment planning and outcomes. However, collecting detailed, accurate data from patients is often time-intensive, costly, and challenging. Developing simulations and predictive models can help bridge this gap by creating synthetic datasets and improving forecasting methods, making it possible to optimize care without overburdening patients.
+Smartphones and wearables provide many important opportunities to advance both clinical care and population health research. They allow the collection of new types of data including self-reported symptoms such as pain, or passively measured sensor data like physical activity. Quick surveys and passive data also allow us to measure the day-to -day changes in disease.
 
-This hackathon focuses on designing and testing innovative approaches to simulate and predict pain dynamics, incorporating real-world challenges such as treatment effects, variability in symptoms, and the constraints of sampling frequency. These tasks have practical relevance for building tools that support personalized care and decision-making in chronic pain management.
+Chronic pain is one area of healthcare that can significantly benefit from these opportunities. Frequent data collection allows us to understand changing patterns of disease through time, identify (time-varying) factors that influence pain, measure and identify early signals of treatment response, or even predict flares and intervene in a timely way. However, collecting detailed, accurate data from patients is often time-intensive, costly, and challenging. Furthermore, developing and testing novel analysis methods to handle rich time-series data in order to achieve the above objectives can be hampered by the availability of large-scale datasets or incomplete data – either because of governance limitations or just because this is a relatively new field of research.
+
+This hackathon focuses on designing and testing innovative approaches to simulate daily tracked symptom data and to predict pain dynamics, incorporating real-world challenges like optimising sampling frequency. 
 
 Below are the two tasks for the hackathon:
 
 
-## Task 1 Description: Simulation with Treatment Dynamics
+## Task 1 Description: Simulation of Tracked Daily Symptoms
 
 ### Task Overview
-In this challenge, you’ll build a simulation that generates daily pain measurements for a set of patients over a certain period. Unlike a standard static dataset, this simulation should capture treatment effects and day-to-day fluctuations in patient pain levels. The end goal is to produce a realistic synthetic dataset that can be used in subsequent modeling tasks.
+In this challenge, you’ll build a simulation that generates daily pain measurements for a set of patients over a certain period. Unlike a standard static dataset, this simulation should capture underlying patterns of disease that will be explained during the hackathon by clinical and patient partners. The end goal is to produce a realistic synthetic dataset that can be used in subsequent modeling tasks.
 
 More details will be provided during the hackathon.
 
@@ -39,11 +40,10 @@ More details will be provided during the hackathon.
 
 #### Design a Simulation:
 
-- Introduce treatment dynamics—for example, a medication might reduce pain after 2 weeks, then fade in effectiveness over the next month.
+- Account for the natural history of disease over time, including phases of improving and worsening symptoms, as well as short-term effects that may change gradually or more rapidly. Superimpose treatments and their corresponding responses. 
+- Include random fluctuations and ‘flares’ to represent day-to-day changes.
+- Introduce treatment dynamics—for example, a medication might reduce pain after 2 weeks, then fade in effectiveness over the next month. 
 - Ensure each patient’s trajectory looks diverse yet realistic (no single pattern for all).
-
-#### Incorporate Variability: 
-- Account for the natural history of disease over time, including phases of improving strove and worsening symptoms, as well as short-term effects that may change gradually or more rapidly. Superimpose treatments and their corresponding responses. Finally, include random fluctuations to represent day-to-day changes.
 
 
 ### Evaluation
@@ -57,7 +57,7 @@ You are encouraged to be creative in modeling elements with different parameters
 ## Task 2 Description: Predicting Pain Measurements and Optimizing Sampling Frequency
 
 ### Task Overview
-Imagine you have data on a number of patients, each with daily pain measurements recorded over a certain time period. However, in the real world, collecting patient-reported outcomes can be demanding and time-consuming. Your mission is to forecast patients’ pain measurement with high accuracy—while also minimizing the number of data points you request.
+Imagine you have data on a number of patients, each with daily pain measurements recorded over a certain time period. However, in the real world, collecting patient-reported outcomes can be demanding and time-consuming. Your mission is to forecast patients’ pain measurement with high accuracy—while also minimizing the number of data points you request to retrieve.
 
 More details will be provided during the hackathon.
 
@@ -74,7 +74,7 @@ More details will be provided during the hackathon.
 
 
 ### The Challenge
-- You receive a training set consisting of fully observed patient records.
+- You will receive a training set consisting of fully observed patient records.
 - For a separate test set of patients, you can strategically choose to request—or skip—daily measurements from the partially observed portion of their records.
 - Finally, you must forecast pain levels for the remainder of the timeline, using the measurements you’ve gathered along with any initial data provided.
 
