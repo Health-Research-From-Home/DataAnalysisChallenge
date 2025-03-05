@@ -14,7 +14,7 @@ This hackathon is being held by Health Research From Home Partnership led by the
   - Who should apply:
     - We aim to recruit 20 participants for an in-person session. The participants will include: Early career researchers (e.g., PhD students, postdoctoral researchers) from academic or industrial background specializing in health data research.
   - How to Get Involved:
-      - To apply, please submit your application here: [Click](https://forms.office.com/Pages/ResponsePage.aspx?id=B8tSwU5hu0qBivA1z6kad4m02bZeszZJhfGfAUKmjjBUN1FOTjI2VExFWFNMNzBFOTI0MVFWM1I5WS4u). 
+      - To apply, please submit your application here: [Click](https://forms.office.com/Pages/ResponsePage.aspx?id=B8tSwU5hu0qBivA1z6kad4m02bZeszZJhfGfAUKmjjBUN1FOTjI2VExFWFNMNzBFOTI0MVFWM1I5WS4u). The application deadline is **April 6th**. 
       - A **£50 registration fee** applies. Selected participants will be notified via email in early April, at which point payment details will be provided.
       - Questions or Sign-Up Assistance: Reach out to our team at: [hrfh@manchester.ac.uk](hrfh@manchester.ac.uk)
   - What to Expect:
