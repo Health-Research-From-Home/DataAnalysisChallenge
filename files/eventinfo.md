@@ -6,41 +6,6 @@ The following is event information for registered participants.
 
 The hackathon will be held at the Christabel Pankhurst Institute, University of Manchester, from May 7 to May 9, 2025.
 
-
-[//]: # (## Timetable)
-
-[//]: # ()
-[//]: # (*Exact timings to be confirmed*)
-
-[//]: # ()
-[//]: # (|Day| Start Time | End Time | Item                       |)
-
-[//]: # (|---|------------|----------|----------------------------|)
-
-[//]: # (|Wed| 09:00      | 09:30    | Registration               |)
-
-[//]: # (|      | 09:30      | 10:00    | General Introductions      |)
-
-[//]: # (|      | 10:00      | 11:00    | Task Definition            |)
-
-[//]: # (|      | 11:00      | 12:00    | Team Formation             |)
-
-[//]: # (|      | 12:00      | 13:00    | Lunch                      |)
-
-[//]: # (|      | 13:00      | 16:30    | Group Work                 |)
-
-[//]: # (|Thu| 09:45      | 12:00    | Group Work                 |)
-
-[//]: # (|      | 12:00      | 13:00    | Lunch                      |)
-
-[//]: # (|      | 13:00      | 16:30    | Group Work                 |)
-
-[//]: # (|Fri| 09:45      | 12:30    | Group Work + Submission    |)
-
-[//]: # (|      | 12:30      | 13:30    | Lunch                      |)
-
-[//]: # (|      | 13:30      | 16:30    | Results and Group Feedback    |)
-
 ## Venue
 
 The hackathon will be held in the Christabel Pankhurst Building at the University of Manchester, located on Dover Street in Manchester (M13 9PS).
