@@ -14,12 +14,15 @@ The hackathon will be led by experienced instructors from HRfH:
 
 | Instructor                                                      | Affiliation   |
 |-----------------------------------------------------------------|---------------|
-| [Will Dixon](https://www.linkedin.com/in/will-dixon-8686094a/)  | HRfH / UoM    |
+| [Will Dixon](https://research.manchester.ac.uk/en/persons/will.dixon)  | HRfH / UoM    |
 | [Christopher Yau](https://www.bdi.ox.ac.uk/Team/christopher-yau)  | HRfH / Oxford |
-| [Glen Martin]()  | HRfH / UoM    |
-| [Matthew Sperrin]()  | HRfH / UoM    |
-| [David Antony Selby]()  | HRfH / DFKI    |
+| [Glen Martin](https://research.manchester.ac.uk/en/persons/glen.martin)  | HRfH / UoM    |
+| [Matthew Sperrin](https://research.manchester.ac.uk/en/persons/matthew.sperrin)  | HRfH / UoM    |
+| [David Antony Selby](https://sebastian.vollmer.ms/author/david-antony-selby/)  | HRfH / DFKI   |
 | [Shuai Shao](https://www.linkedin.com/in/shuai-shao-b632b3b6/)  | HRfH / UoM    |
+| [Jose Benitez-Aurioles](https://www.hdruk.ac.uk/people/jose-benitez-aurioles/)  | HDRUK / UoM   |
+| [Zhengmao Li](https://www.hdruk.ac.uk/people/zhengmao-li/)  | HDRUK / UoM    |
+| [Aashna Uppal](https://www.hdruk.ac.uk/people/aashna-uppal/)  | HDRUK / Oxford |
 
 
 ## Who should apply?
@@ -32,8 +35,8 @@ Early career researchers (e.g., PhD students, postdoctoral researchers) from aca
 
 ## How much will it cost me to attend?
 
-There is no cost to participate, however, the participants will be required to pay for and arrange their own transport and accommodation. A limited number of bursaries maybe available.
+The registration fee is £50. Participants are responsible for arranging and covering the cost of their own transport and accommodation. A limited number of bursaries are available—please contact hrfh@manchester.ac.uk for further details.
 
 ## Cancellations
 
-The participants should ensure they take out adequate personal insurance for any pre-booked travel as it is not possible for HRfH to refund any incurred costs if an unavoidable cancellation occurs.
+Participants should ensure they have adequate personal insurance for any pre-booked travel, as HRfH cannot refund any incurred costs in the event of an unavoidable cancellation. The registration fee is refundable only if canceled at least two weeks before the event.

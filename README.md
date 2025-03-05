@@ -14,8 +14,9 @@ This hackathon is being held by Health Research From Home Partnership led by the
   - Who should apply:
     - We aim to recruit 20 participants for an in-person session. The participants will include: Early career researchers (e.g., PhD students, postdoctoral researchers) from academic or industrial background specializing in health data research.
   - How to Get Involved:
-    - Stay Updated: Sign up for our newsletter to receive event updates and registration details: [Subscribe Here](https://emarketing.manchester.ac.uk/l/166/hrfhsubscribe)
-    - Questions or Sign-Up Assistance: Reach out to our team at: [hrfh@manchester.ac.uk](hrfh@manchester.ac.uk)
+      - To apply, please submit your application here: [Click](https://forms.office.com/Pages/ResponsePage.aspx?id=B8tSwU5hu0qBivA1z6kad4m02bZeszZJhfGfAUKmjjBUN1FOTjI2VExFWFNMNzBFOTI0MVFWM1I5WS4u). 
+      - A **£50 registration fee** applies. Selected participants will be notified via email in early April, at which point payment details will be provided.
+      - Questions or Sign-Up Assistance: Reach out to our team at: [hrfh@manchester.ac.uk](hrfh@manchester.ac.uk)
   - What to Expect:
     - Networking opportunities with experts in ePGHD and related fields. 
     - Access to curated datasets and resources for hands-on experimentation. 
