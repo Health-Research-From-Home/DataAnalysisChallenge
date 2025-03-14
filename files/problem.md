@@ -9,9 +9,9 @@ This hackathon focuses on designing and testing innovative approaches to simulat
 Below are the two tasks for the hackathon:
 
 
-## Task 1 Description: Simulation of Tracked Daily Symptoms
+## Task 1 Description: Simulation of tracked daily symptoms
 
-### Task Overview
+### Task overview
 In this challenge, you’ll build a simulation that generates daily pain measurements for a set of patients over a certain period. Unlike a standard static dataset, this simulation should capture underlying patterns of disease that will be explained during the hackathon by clinical and patient partners. The end goal is to produce a realistic synthetic dataset that can be used in subsequent modeling tasks.
 
 More details will be provided during the hackathon.
@@ -35,10 +35,10 @@ More details will be provided during the hackathon.
 
 [//]: # (- Simple or complex “treatment effect” curves &#40;e.g., medication starts, dosage changes, tapering, etc.&#41;.)
 
-### The Challenge
+### The challenge
 
 
-#### Design a Simulation:
+#### Design a simulation:
 
 - Account for the natural history of disease over time, including phases of improving and worsening symptoms, as well as short-term effects that may change gradually or more rapidly. Superimpose treatments and their corresponding responses. 
 - Include random fluctuations and ‘flares’ to represent day-to-day changes.
@@ -54,9 +54,9 @@ The result of your simulation will be evaluated by the domain experts. While the
 
 You are encouraged to be creative in modeling elements with different parameters to enhance the simulator. The ultimate goal is to produce a coherent, flexible simulator that generates daily pain measurements influenced by mock treatments over a certain time period.
 
-## Task 2 Description: Predicting Pain Measurements and Optimizing Sampling Frequency
+## Task 2 Description: Predicting pain measurements and optimizing sampling frequency
 
-### Task Overview
+### Task overview
 Imagine you have data on a number of patients, each with daily pain measurements recorded over a certain time period. However, in the real world, collecting patient-reported outcomes can be demanding and time-consuming. Your mission is to forecast patients’ pain measurement with high accuracy—while also minimizing the number of data points you request to retrieve.
 
 More details will be provided during the hackathon.
@@ -73,7 +73,7 @@ More details will be provided during the hackathon.
 [//]: # (Before generating your final predictions on days 151–180, you have the option to retrieve additional daily measurements from days 30–150 for each patient—but at a cost. Each requested data point adds to your overall penalty.)
 
 
-### The Challenge
+### The challenge
 - You will receive a training set consisting of fully observed patient records.
 - For a separate test set of patients, you can strategically choose to request—or skip—daily measurements from the partially observed portion of their records.
 - Finally, you must forecast pain levels for the remainder of the timeline, using the measurements you’ve gathered along with any initial data provided.

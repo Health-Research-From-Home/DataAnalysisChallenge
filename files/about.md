@@ -25,7 +25,7 @@ The hackathon will be led by experienced instructors from HRfH:
 | [Aashna Uppal](https://www.hdruk.ac.uk/people/aashna-uppal/)  | HDRUK / Oxford |
 
 
-## Who should apply?
+## Who can apply?
 
 We aim to recruit 20 participants for an in-person session. The participants will include:
 
@@ -35,8 +35,8 @@ Early career researchers (e.g., PhD students, postdoctoral researchers) from aca
 
 ## How much will it cost me to attend?
 
-The registration fee is £50. Participants are responsible for arranging and covering the cost of their own transport and accommodation. A limited number of bursaries are available—please contact hrfh@manchester.ac.uk for further details.
+The registration fee is £50. Participants are responsible for arranging and covering the cost of their own transport and accommodation. A limited number of bursaries are available as we don’t want finances to be a barrier to attending. Please [contact us](mailto:hrfh@manchester.ac.uk) for further details.
 
 ## Cancellations
 
-Participants should ensure they have adequate personal insurance for any pre-booked travel, as HRfH cannot refund any incurred costs in the event of an unavoidable cancellation. The registration fee is refundable only if canceled at least two weeks before the event.
+Participants should ensure they have adequate personal insurance for any pre-booked travel, as HRfH cannot refund any incurred costs in the event of an unavoidable cancellation. The registration fee is refundable only if cancelled at least two weeks before the event.
