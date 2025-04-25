@@ -12,6 +12,10 @@ Participants will be expected to pay for and arrange their own accommodation dur
 We will provide refreshments and lunch for all attendees each day of the hackathon, as well as an evening meal on the first night. If you have any specific dietary requirements or allergies, please let us know in advance.
 
 
+## Usage Rights for Submitted Project
+All code and other materials created during the Hackathon event by you shall be referred to as your Results.  By submitting your Results, you grant The University of Manchester (“University”) an unrestricted worldwide, royalty-free, non-exclusive, irrevocable license to use, modify, distribute, and make your Results available on open-source platforms such as GitHub.  This license includes the right for the University to use, adapt and share with third parties your Results for academic teaching and research purposes.
+
+
 ## What will I need to bring or arrange in advance?
 For this hackathon, you will need:
 
