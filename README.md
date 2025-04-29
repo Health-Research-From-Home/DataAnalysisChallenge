@@ -16,7 +16,7 @@ This hackathon is being held by Health Research From Home Partnership led by the
   - How to get involved:
       - To apply, please [submit your application here](https://forms.office.com/Pages/ResponsePage.aspx?id=B8tSwU5hu0qBivA1z6kad4m02bZeszZJhfGfAUKmjjBUN1FOTjI2VExFWFNMNzBFOTI0MVFWM1I5WS4u). The application deadline is **Sunday 6 April**. 
       - Please note: A **£50 registration fee** applies. Selected participants will be notified via email in early April, at which point payment details will be provided. A limited number of bursaries are available as we don’t want finances to be a barrier to attending - just [contact us](mailto:hrfh@manchester.ac.uk) for more information.
-      - Registration payment: Once selected, please pay the £50 registration fee via our [**secure payment page**](https://health-research-from-home.github.io/DataAnalysisChallenge/files/eventinfo.html).
+      - Registration payment: Once selected, please pay the £50 registration fee via our [secure payment page](https://estore.manchester.ac.uk/conferences-and-events/faculty-of-biology-medicine-and-health/school-of-health-sciences/division-of-informatics-imaging-and-data-sciences/hrfh-hackathon).
       - Got questions? Reach out to our team at: [hrfh@manchester.ac.uk](mailto:hrfh@manchester.ac.uk)
   - What to expect:
     - Networking opportunities with experts in ePGHD and related fields. 
